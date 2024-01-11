@@ -14,7 +14,7 @@ const BannerCard = () => {
   return (
     <div>
       <Container>
-        <div className="grid grid-cols-10 ">
+        <div className="grid lg:grid-cols-10 ">
           <div className="col-span-4 bg-[#0A293B] text-white">
             <div className="p-10">
               <div className="">

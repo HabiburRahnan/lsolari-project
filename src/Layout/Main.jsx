@@ -6,7 +6,10 @@ import Container from "../Components/Container";
 const Main = () => {
   return (
     <div>
-      <Container><Navbar></Navbar></Container>
+      <Container>
+        <Navbar></Navbar>
+      </Container>
+
       <Outlet></Outlet>
       <Footer></Footer>
     </div>
