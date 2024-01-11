@@ -6,7 +6,7 @@ const Banner = () => {
         style={{
           
           backgroundImage: "url(https://i.ibb.co/ZNn56pL/hero.png)",
-          boxShadow:""
+         
           
          
         }}

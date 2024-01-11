@@ -21,7 +21,7 @@ const Hero = () => {
                 performant. Profitez de la tranquillité d'esprit en sachant que
                 votre investissement solaire est entre de bonnes mains.
               </p>
-              <div className="flex bg-white rounded-xl w-1/2">
+              <div className="flex bg-white rounded-xl md:w-1/2">
                 <h1 className=" font-semibold py-5 mx-3 text-black">Envie de discuter avec nous ?</h1>
                 <button className="btn bg-[#9bc31c] text-white rounded-2xl hover:bg-[#9bc31c] my-auto">Contactez-nous</button>
               </div>

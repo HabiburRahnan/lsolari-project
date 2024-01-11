@@ -3,6 +3,7 @@ import BannerCard from "../BannerCard/BannerCard";
 import Hero from "../Hero/Hero";
 import Notrehistoire from "../Notrehistoire/Notrehistoire";
 import ProposSection from "../ProposSection/ProposSection";
+import Services from "../Services/Services";
 
 const Home = () => {
   return (
@@ -12,6 +13,7 @@ const Home = () => {
       <ProposSection></ProposSection>
       <Notrehistoire></Notrehistoire>
       <Hero></Hero>
+      <Services></Services>
     </div>
   );
 };

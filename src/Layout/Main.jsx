@@ -11,6 +11,7 @@ const Main = () => {
       </Container>
 
       <Outlet></Outlet>
+
       <Footer></Footer>
     </div>
   );
