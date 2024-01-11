@@ -9,8 +9,8 @@ const ProposSection = () => {
       .then((data) => setSection(data));
   }, []);
   return (
-    <div>
-      <div className="mx-auto text-center lg:w-3/4 my-10">
+    <div className="mx-5">
+      <div className="mx-auto text-center lg:w-3/4 my-10 ">
         <p className="text-[#9bc31c] mb-2">À propos de nous</p>
         <p className="text-2xl font-bold uppercase py-5">
           Votre <span className="text-[#9bc31c] ">partenaire solaire</span> de
